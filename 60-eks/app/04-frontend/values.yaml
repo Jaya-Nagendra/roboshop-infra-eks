@@ -1,0 +1,6 @@
+deployment:
+  replicas: "1"
+  imageName: "nagendra2244/frontend"
+  imageVersion: "1.2.0"
+ingress:
+  host: "roboshop-dev.ljnag.space"
