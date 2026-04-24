@@ -1,6 +1,8 @@
 configMap:
   CART_ENDPOINT: "cart:8080"
   DB_HOST: "roboshop-dev.c4x0usekae8o.us-east-1.rds.amazonaws.com"
+  DB_USER: "root"
+  DB_PASS: "RoboShop#123"
 deployment:
   replicas: "1"
   imageName: "nagendra2244/shipping"

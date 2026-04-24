@@ -10,3 +10,5 @@ metadata:
 data:
   CART_ENDPOINT: {{ .Values.configMap.CART_ENDPOINT }}
   DB_HOST: {{ .Values.configMap.DB_HOST }}
+  DB_USER: {{ .Values.configMap.DB_USER }}
+  DB_PASS: {{ .Values.configMap.DB_PASS }}
