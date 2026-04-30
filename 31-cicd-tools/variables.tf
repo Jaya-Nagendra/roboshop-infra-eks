@@ -7,11 +7,11 @@ variable "environment" {
 }
 
 variable "zone_id" {
-    default = "Z05013202FKF0ZL12WAOP"
+    default = "Z0264884DOSR5KP2H7MK"
 }
 
 variable "domain_name" {
-    default = "daws88s.online"
+    default = "ljnag.space"
 }
 
 variable "sonar" {
