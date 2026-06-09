@@ -19,7 +19,7 @@ variable "sg_names" {
     "eks_node",
 
     "jenkins","jenkins_agent",
-    "sonar"
+    "sonar","runner"
 
   ]
 }
